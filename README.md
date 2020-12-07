@@ -10,11 +10,12 @@
 [1. Face Mask Dataset:](https://github.com/Ashish-Gore/Face-Mask-Detection-Using-OpenCV/tree/main/Face%20Mask%20dataset)<br>
 [2. Google Drive Link For Dataset](https://drive.google.com/drive/folders/10sFiweLQUXqbXgkg3XdPM1kpriug5_Oc?usp=sharing)<br>
 <br>
-Dataset Contains 2 Classes to train model as follow:
+Dataset Contains 2 Classes to train model: <br>
 1. With Mask
 2. Without Mask
+<br>
 
-**Codes:** <br>
+## Codes:
 Notebook: <br>
 [1. training_mask_detection_model.ipynb](https://github.com/Ashish-Gore/Face-Mask-Detection-Using-OpenCV/blob/main/1.%20training_mask_detection_model.ipynb)<br>
 [2. detect_mask_video.ipynb](https://github.com/Ashish-Gore/Face-Mask-Detection-Using-OpenCV/blob/main/2.%20detect_mask_video.ipynb)<br>
